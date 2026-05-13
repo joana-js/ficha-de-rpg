@@ -1,6 +1,6 @@
 # ✨ ⚔️ Projeto: A Cavaleira Branca
 
-Este repositório contém a ficha mística de **Mira Haverinen**, uma fada guerreira da Corte Luminae. O projeto foi desenvolvido para capturar a essência "fae" e heróica da personagem, unindo funcionalidade de RPG com uma narrativa visual imersiva.
+Este repositório contém a ficha de rpg da personagem **Mira Haverinen**, uma fada guerreira da Corte Luminae. O projeto foi desenvolvido para capturar a essência "fae" e heróica da personagem, unindo funcionalidade de RPG com uma narrativa visual imersiva.
 
 ## 🧚‍♀️ Sobre Mira Haverinen
 
