@@ -79,7 +79,3 @@ npm install
 ---
 
 **Desenvolvido por Joana Jensen Schifter** 
-
-```
-
-```
